@@ -1,0 +1,12 @@
+A summarized performance characteristics of algorithms and data structures for sorting, priority queues, symbol tables and graph processing:
+    - https://algs4.cs.princeton.edu/cheatsheet/
+
+
+Quora Forum:
+    - https://www.quora.com/Whats-the-best-cheat-sheet-data-structure-for-an-Algorithm-and-Data-Structure-class-final-exam
+
+Link to the forked parent:
+    - https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+
+
