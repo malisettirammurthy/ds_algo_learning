@@ -8,5 +8,7 @@ Quora Forum:
 Link to the forked parent:
     - https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
 
+Algorithmic cheat sheet:
+    - https://sinon.org/algorithms//#data-structures
 
 
